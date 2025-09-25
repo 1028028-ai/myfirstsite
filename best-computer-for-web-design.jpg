@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://www.how-to-build-websites.com/xmlrpc.php">
+	<link href="https://www.how-to-build-websites.com/wp-content/themes/killersites/images/favicon.ico" rel="shortcut icon">
+	
+	<meta name="google-site-verification" content="hs1FHeKxMGyhL8iQIawwo9A4V0OiGMPJuIdtnSqrZbc"/>
+	<meta name="robots" content="index, follow">
+	
+	<!--[if lt IE 9]>
+	<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	
+	<title>Best Computer for Web Design &#8211; How to Build Websites</title>
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v2.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Beginners web design tutorial. Learn modern HTML, CSS and HTML 5 based web design."/>
+<link rel="canonical" href="https://www.how-to-build-websites.com/best-computer-for-web-design.php" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Best Computer for Web Design" />
+<meta property="og:description" content="Beginners web design tutorial. Learn modern HTML, CSS and HTML 5 based web design." />
+<meta property="og:url" content="https://www.how-to-build-websites.com/best-computer-for-web-design.php" />
+<meta property="og:site_name" content="How to Build Websites" />
+<meta property="article:section" content="Web Design" />
+<meta property="article:published_time" content="2015-06-09T17:16:59+00:00" />
+<meta property="article:modified_time" content="2015-06-09T23:57:24+00:00" />
+<meta property="og:updated_time" content="2015-06-09T23:57:24+00:00" />
+<meta property="og:image" content="http://www.how-to-build-websites.com/wp-content/uploads/2015/06/best-computer-for-web-design-300x222.png" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="Beginners web design tutorial. Learn modern HTML, CSS and HTML 5 based web design."/>
+<meta name="twitter:title" content="Best Computer for Web Design"/>
+<meta name="twitter:domain" content="How to Build Websites"/>
+<meta name="twitter:image:src" content="http://www.how-to-build-websites.com/wp-content/uploads/2015/06/best-computer-for-web-design-300x222.png"/>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"https:\/\/www.how-to-build-websites.com\/","name":"How to Build Websites"}</script>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="How to Build Websites &raquo; Feed" href="https://www.how-to-build-websites.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="How to Build Websites &raquo; Comments Feed" href="https://www.how-to-build-websites.com/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.how-to-build-websites.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.17"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.how-to-build-websites.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4.17' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-syntax-css-css'  href='https://www.how-to-build-websites.com/wp-content/plugins/wp-syntax/css/wp-syntax.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='killersites-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C700italic%2C800italic%2C400%2C300%2C600%2C700%2C800&#038;ver=5.4.17' type='text/css' media='all' />
+<link rel='stylesheet' id='killersites-bootstrap-css'  href='https://www.how-to-build-websites.com/wp-content/themes/killersites/css/bootstrap.min.css?ver=5.4.17' type='text/css' media='all' />
+<link rel='stylesheet' id='killersites-styles-css'  href='https://www.how-to-build-websites.com/wp-content/themes/killersites/css/style.css?ver=5.4.17' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.how-to-build-websites.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.how-to-build-websites.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://www.how-to-build-websites.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.how-to-build-websites.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.how-to-build-websites.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.17" />
+<link rel='shortlink' href='https://www.how-to-build-websites.com/?p=2042' />
+<link rel="alternate" type="application/json+oembed" href="https://www.how-to-build-websites.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.how-to-build-websites.com%2Fbest-computer-for-web-design.php" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.how-to-build-websites.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.how-to-build-websites.com%2Fbest-computer-for-web-design.php&#038;format=xml" />
+	
+	
+	
+
+
+
+
+
+<!-- Google Analytics Code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3901418-4', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Google Analytics Code -->
+
+
+
+</head>
+<body class="post-template-default single single-post postid-2042 single-format-standard">
+
+	<header id="pageheader">
+	    <div class="container">
+	        <div class="row">
+	            <div class="col-sm-6">
+	                <a href="https://www.how-to-build-websites.com/"><img src="https://www.how-to-build-websites.com/wp-content/themes/killersites/images/logo.png" alt="How to Build Websites"></a>
+	            </div>
+	            <div class="col-sm-6">
+	                <form role="search" method="get" class="search-form" action="https://www.how-to-build-websites.com/">
+	                	<input type="search" class="search-field" placeholder="Search How to Build Websites" value="" name="s" title="Search for:" />
+	                	<input type="submit" class="search-submit" value="Search" />
+	                </form>
+	            </div>
+	        </div>
+	    </div>
+	</header>
+	
+	<nav id="pagenav">
+		<div class="container">
+		    <div class="row">
+		        <div class="col-sm-12">
+		        	<a href="#" id="mobile-toggle">Menu <img src="https://www.how-to-build-websites.com/wp-content/themes/killersites/images/menu.png" height="20" width="24" alt=""></a>
+		        	<ul id="menu-main" class="menu"><li id="menu-item-2006" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-2006"><a href="https://www.how-to-build-websites.com/">Home</a></li>
+<li id="menu-item-1961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1961"><a href="https://www.how-to-build-websites.com/basic-concepts/part1.php">1. Basic Concepts</a>
+<ul class="sub-menu">
+	<li id="menu-item-2005" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2005"><a href="https://www.how-to-build-websites.com/basic-concepts/part1.php">Part 1</a></li>
+	<li id="menu-item-1964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1964"><a href="https://www.how-to-build-websites.com/basic-concepts/part2.php">Part 2</a></li>
+	<li id="menu-item-1962" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1962"><a href="https://www.how-to-build-websites.com/basic-concepts/part3.php">Part 3</a></li>
+</ul>
+</li>
+<li id="menu-item-1965" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1965"><a href="https://www.how-to-build-websites.com/building-a-web-page/part1.php">2. Building a Web Page</a>
+<ul class="sub-menu">
+	<li id="menu-item-1966" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1966"><a href="https://www.how-to-build-websites.com/building-a-web-page/part1.php">Part 1</a></li>
+	<li id="menu-item-1967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1967"><a href="https://www.how-to-build-websites.com/building-a-web-page/part2.php">Part 2</a></li>
+	<li id="menu-item-1969" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1969"><a href="https://www.how-to-build-websites.com/building-a-web-page/part3.php">Part 3</a></li>
+</ul>
+</li>
+<li id="menu-item-1968" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1968"><a href="https://www.how-to-build-websites.com/building-a-web-site/part1.php">3. Building a Web Site</a>
+<ul class="sub-menu">
+	<li id="menu-item-1970" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1970"><a href="https://www.how-to-build-websites.com/building-a-web-site/part1.php">Part 1</a></li>
+	<li id="menu-item-1971" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1971"><a href="https://www.how-to-build-websites.com/building-a-web-site/part2.php">Part 2</a></li>
+	<li id="menu-item-1972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1972"><a href="https://www.how-to-build-websites.com/building-a-web-site/part3.php">Part 3</a></li>
+	<li id="menu-item-1973" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1973"><a href="https://www.how-to-build-websites.com/building-a-web-site/part4.php">Part 4</a></li>
+	<li id="menu-item-1974" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1974"><a href="https://www.how-to-build-websites.com/building-a-web-site/part5.php">Part 5</a></li>
+</ul>
+</li>
+<li id="menu-item-1975" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1975"><a href="https://www.how-to-build-websites.com/intro-to-css.php">4. CSS Intro</a></li>
+<li id="menu-item-1976" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1976"><a href="https://www.how-to-build-websites.com/css-tutorial/part1.php">5. CSS Tutorial</a>
+<ul class="sub-menu">
+	<li id="menu-item-1977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1977"><a href="https://www.how-to-build-websites.com/css-tutorial/part1.php">Part 1</a></li>
+	<li id="menu-item-1980" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1980"><a href="https://www.how-to-build-websites.com/css-tutorial/part2.php">Part 2</a></li>
+	<li id="menu-item-1979" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1979"><a href="https://www.how-to-build-websites.com/css-tutorial/part3.php">Part 3</a></li>
+</ul>
+</li>
+<li id="menu-item-1978" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1978"><a href="https://www.how-to-build-websites.com/advanced-html.php">6. Advanced HTML</a></li>
+<li id="menu-item-1981" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1981"><a href="https://www.how-to-build-websites.com/javascript-tutorial/basic-javascript-part1.php">7. Javascript</a>
+<ul class="sub-menu">
+	<li id="menu-item-2003" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2003"><a href="https://www.how-to-build-websites.com/javascript-tutorial/basic-javascript-part1.php">Part 1</a></li>
+	<li id="menu-item-1982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1982"><a href="https://www.how-to-build-websites.com/javascript-tutorial/basic-javascript-part2.php">Part 2</a></li>
+	<li id="menu-item-1983" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1983"><a href="https://www.how-to-build-websites.com/javascript-tutorial/basic-javascript-part3.php">Part 3</a></li>
+	<li id="menu-item-1986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1986"><a href="https://www.how-to-build-websites.com/javascript-tutorial/javascript-oop-part4.php">Part 4</a></li>
+	<li id="menu-item-1984" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1984"><a href="https://www.how-to-build-websites.com/javascript-tutorial/javascript-oop-part5.php">Part 5</a></li>
+	<li id="menu-item-1985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1985"><a href="https://www.how-to-build-websites.com/javascript-tutorial/javascript-oop-part6.php">Part 6</a></li>
+</ul>
+</li>
+<li id="menu-item-1989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1989"><a href="https://www.how-to-build-websites.com/misc-topics/part1.php">8. Misc</a>
+<ul class="sub-menu">
+	<li id="menu-item-2004" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2004"><a href="https://www.how-to-build-websites.com/misc-topics/part1.php">Part 1</a></li>
+	<li id="menu-item-1988" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1988"><a href="https://www.how-to-build-websites.com/misc-topics/part2.php">Part 2</a></li>
+	<li id="menu-item-1987" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1987"><a href="https://www.how-to-build-websites.com/misc-topics/part3.php">Part 3</a></li>
+</ul>
+</li>
+</ul>		        </div>
+			</div>
+		</div>
+	</nav>
+
+<section id="pagebanner">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+                <h1>More Web Design Tutorials</h1>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section id="content">
+	<div class="container">
+		<div class="row">
+		
+			<div class="col-md-9 content">
+			
+								
+					<div class="navigation-top">
+						<div class="alignleft">&laquo; <a href="https://www.how-to-build-websites.com/learn-the-foundations-of-web-design.php" rel="prev">Learn the Foundations of Web Design</a></div>
+						<div class="alignright"><a href="https://www.how-to-build-websites.com/a-book-that-makes-learning-web-design-easy.php" rel="next">A book that makes learning web design easy!</a> &raquo;</div>
+					</div>
+				
+					<h2 class="posttitle">Best Computer for Web Design</h2>
+					<h5 class="date">June 9, 2015</h5>
+				
+					<p>The following is an excerpt from my new beginners web design book &#8211; <a href="http://goo.gl/IVpjsH">Web Design Start Here!</a></p>
+<p>From Chapter 1, Getting Started in Web Design:</p>
+<blockquote>
+<p class="p1"><span class="s1"><b>What is the best computer for web design?<br />
+</b>First of all, you can use any old crappy computer and it will be more than powerful enough to start building </span><span class="s1">amazing websites. If you think about it, web design is largely about writing code—this is just text and even your old iPhone can write lots of text! I am not saying you should be building websites on your iPhone (but you know what, that might be coming in the next couple of years).</span></p>
+<p class="p1"><a href="http://www.how-to-build-websites.com/wp-content/uploads/2015/06/best-computer-for-web-design.png"><img class="alignright wp-image-2043 size-medium" title="best computer for web design" src="http://www.how-to-build-websites.com/wp-content/uploads/2015/06/best-computer-for-web-design-300x222.png" alt="" width="300" height="222" srcset="https://www.how-to-build-websites.com/wp-content/uploads/2015/06/best-computer-for-web-design-300x222.png 300w, https://www.how-to-build-websites.com/wp-content/uploads/2015/06/best-computer-for-web-design.png 722w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p class="p1"><span class="s1"><b>A good monitor is a big plus </b></span></p>
+<p class="p1"><span class="s1">If you can afford it, get yourself a nice monitor—it’s just easier to work with and you will be more productive. Nicer means bigger and with more pixels, and of course flat panel. </span></p>
+<p class="p1"><span class="s1"><b>Laptop or desktop? </b></span></p>
+<p class="p1"><span class="s1">The best thing to have is a laptop and<br />
+an external flat panel display to hook it up to when you are at your desk. A laptop is great because you can move around with it, visit clients, and show them how the progress is going with their website— it just gives you that flexibility. </span></p>
+<p class="p1"><span class="s1">That said, an old desktop with a CRT monitor is fine—many fantastic websites have been designed on these. </span></p>
+<p class="p1"><span class="s1"><b>SSD storage </b></span></p>
+<p class="p1"><span class="s1">SSD is short for “solid-state drive” and it is a type of storage that’s a couple orders of magnitude faster than traditional hard drives. I highly recommend that you get a computer (laptop or desktop) with SSD storage because it will speed things up like crazy. My two-year-old SSD-based ultra-thin laptop can boot up Windows 7 cold in nine seconds, while my MacBook Pro SSD boots in about 12 seconds! </span></p>
+<p class="p1"><span class="s1"><b>Powerful processors are not too important in web design<br />
+</b>When people think of computer speed, they always think of the CPU—2.9 GHz Intel Core i7, etc. For web design, the speed of the computer is much more about the hard disk rather than the CPU. This is because you will be opening and closing a lot of files and the speed of this is all hard drive. Trust me, the few seconds that you save each time you open files and apps adds up at the end of the day. </span></p>
+<p class="p1"><span class="s1">In short, web design is hard drive intensive and hardly ever CPU intensive. If you have the money, get an SSD-based computer. My favorites are the MacBook Air and the Samsung Ativ Book, but any SSD-based computer will rock! </span></p>
+<p class="p1"><span class="s1"><b>High-speed internet </b></span></p>
+<p class="p1"><span class="s1">The internet is like a car: the faster the better. Being able to upload and download files in a flash just feels good. When you are searching for specific tips on how to do something on Google, speed is essential! If you can afford it and it is available in your part of the world, get it. Even my father’s got high-speed internet—and he’s really old!</span></p>
+</blockquote>
+<p class="p1">I will be posting more from the book over the next couple of weeks.</p>
+<p class="p1">Thanks,<br />
+Stefan Mischook<br />
+how-to-build-websites.com</p>
+<p class="p1">
+				
+					<div class="postmetadata">					
+						<div class="social-bottom">
+							<span class='st_facebook_hcount' displayText='Facebook'></span>
+							<span class='st_twitter_hcount' displayText='Tweet'></span>
+							<span class='st_plusone_hcount' displayText='Google +1'></span>
+							<span class='st_reddit_hcount' displayText='Reddit'></span>	
+						</div>
+
+						<p>
+							<b>Categories:</b> <a href="https://www.how-to-build-websites.com/category/web-design-2" rel="category tag">Web Design</a>, <a href="https://www.how-to-build-websites.com/category/web-design-start-here" rel="category tag">Web Design Start Here</a>, <a href="https://www.how-to-build-websites.com/category/web-design-2/web-design-tools" rel="category tag">Web Design Tools</a><br>
+							<br>
+							
+							This post was written by:  admin and posted
+							on Tuesday, June 9th, 2015 at 5:16 pm.
+						</p>
+					</div>
+									
+							
+			</div>
+			<aside class="col-md-3 sidebar">
+				
+                <ul class="widgets">
+				                <li id="text-3" class="widget widget_text">			<div class="textwidget"><div class="textwidget">
+<div class="list first newsletter">
+<ul id="social_icons">
+<li id="facebook"><a href="https://www.facebook.com/pages/Killersites/247915087277" target="_blank" rel="noopener noreferrer"><i class="fa fa-facebook fa-3x"></i></a></li>
+<li id="twitter"><a href="https://twitter.com/killersites" target="_blank" rel="noopener noreferrer"><i class="fa fa-twitter fa-3x"></i></a></li>
+<li id="google"><a href="https://plus.google.com/u/0/104516324687483231020/" target="_blank" rel="noopener noreferrer"><i class="fa fa-google-plus fa-3x"></i></a></li>
+<li id="youtube"><a href="https://www.youtube.com/user/killerphp" target="_blank" rel="noopener noreferrer"><i class="fa fa-youtube fa-3x"></i></a></li>
+</ul>
+<p><!-- Begin MailChimp Signup Form --></p>
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }<br />	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.<br />	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */<br /></style>
+<div id="mc_embed_signup">
+<form id="mc-embedded-subscribe-form" class="validate" action="//how-to-build-websites.us8.list-manage.com/subscribe/post?u=bbf312731b7cfc4f58a7b3c72&amp;id=ea1ef36ca8" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
+<div id="mc_embed_signup_scroll">
+<h4>Sign up to our Newsletter:</h4>
+<p><input id="mce-EMAIL" class="required email" style="width: 175px;" name="EMAIL" required="" type="email" value="" placeholder="email address" /> <input id="mc-embedded-subscribe" class="button" name="subscribe" type="submit" value="Subscribe" /></p>
+<p><!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--></p>
+<div style="position: absolute; left: -5000px;" aria-hidden="true"><input tabindex="-1" name="b_bbf312731b7cfc4f58a7b3c72_ea1ef36ca8" type="text" value="" /></div>
+</div>
+</form>
+</div>
+<p><!--End mc_embed_signup--></p>
+</div>
+</div>
+</div>
+		</li><li id="text-13" class="widget widget_text">			<div class="textwidget"><a href="https://shop.killervideostore.com/">
+<img src="https://www.how-to-build-websites.com/wp-content/uploads/2016/09/learWebDesign.jpg" >
+</a>
+
+<p style="text-align: center; margin-top: 15px">
+<a href="https://shop.killervideostore.com/">
+Summer sale on now!</a>
+</p></div>
+		</li><li id="text-11" class="widget widget_text"><h4 class="widgettitle">Buy my book on Amazon today!</h4>			<div class="textwidget"><a href="https://www.amazon.com/gp/product/1440341125/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1440341125&linkCode=as2&tag=wwwmontrealma-20&linkId=C5C5TDJUYS25AGUU">
+<img src="https://www.how-to-build-websites.com/wp-content/uploads/2015/06/webdesign-start-here.jpg" style="border: 1px solid #D8D8D8">
+</a>
+
+<p style="text-align: center; margin-top: 15px">
+<a href="https://www.amazon.com/gp/product/1440341125/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1440341125&linkCode=as2&tag=wwwmontrealma-20&linkId=C5C5TDJUYS25AGUU">
+On sale now!</a>
+</p>
+
+<p style="text-align: center; margin-top: 15px">Average rating:  <span style="color: #FFC100">&#9733; &#9733; &#9733; &#9733; &#9733;</span></p></div>
+		</li><li id="text-5" class="widget widget_text">			<div class="textwidget"><div class="libraryad">
+<a href="https://www.studioweb.com/" target="_blank" rel="noopener noreferrer">
+<p>Studioweb: Teach HTML5, CSS3, JavaScript and PHP. No prior coding skills required!</p>
+<button>Learn More</button>
+</a>
+</div></div>
+		</li><li id="categories-3" class="widget widget_categories"><h4 class="widgettitle">HTML Tutorials, Videos and News</h4>		<ul>
+				<li class="cat-item cat-item-105"><a href="https://www.how-to-build-websites.com/category/code">Code</a> (8)
+</li>
+	<li class="cat-item cat-item-106"><a href="https://www.how-to-build-websites.com/category/css">CSS</a> (24)
+</li>
+	<li class="cat-item cat-item-5"><a href="https://www.how-to-build-websites.com/category/css-basics" title="Articles, videos and podcasts on basic CSS.">CSS Basics</a> (1)
+</li>
+	<li class="cat-item cat-item-8"><a href="https://www.how-to-build-websites.com/category/css-page-layouts" title="Articles, videos and podcasts on creating page layouts with CSS.">CSS Page Layouts</a> (2)
+</li>
+	<li class="cat-item cat-item-9"><a href="https://www.how-to-build-websites.com/category/css-training">CSS Training</a> (3)
+</li>
+	<li class="cat-item cat-item-10"><a href="https://www.how-to-build-websites.com/category/css-video-tutorial">CSS Videos</a> (26)
+<ul class='children'>
+	<li class="cat-item cat-item-11"><a href="https://www.how-to-build-websites.com/category/css-video-tutorial/html5-css3-and-jquery-videos">HTML5 CSS3 and jQuery Videos</a> (15)
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-107"><a href="https://www.how-to-build-websites.com/category/dreamweaver-cs6">Dreamweaver CS6</a> (3)
+</li>
+	<li class="cat-item cat-item-231"><a href="https://www.how-to-build-websites.com/category/freelancer">freelancer</a> (1)
+</li>
+	<li class="cat-item cat-item-108"><a href="https://www.how-to-build-websites.com/category/html">HTML</a> (33)
+</li>
+	<li class="cat-item cat-item-109"><a href="https://www.how-to-build-websites.com/category/html5-and-css3">HTML5 and CSS3</a> (12)
+</li>
+	<li class="cat-item cat-item-229"><a href="https://www.how-to-build-websites.com/category/javascript">JavaScript</a> (2)
+</li>
+	<li class="cat-item cat-item-110"><a href="https://www.how-to-build-websites.com/category/misc-topics" title="Miscellaneous topics, SEO, web design news, video blogs etc ">Misc Topics</a> (8)
+</li>
+	<li class="cat-item cat-item-13"><a href="https://www.how-to-build-websites.com/category/news">News</a> (10)
+</li>
+	<li class="cat-item cat-item-233"><a href="https://www.how-to-build-websites.com/category/python">python</a> (3)
+</li>
+	<li class="cat-item cat-item-232"><a href="https://www.how-to-build-websites.com/category/sponsor">sponsor</a> (1)
+</li>
+	<li class="cat-item cat-item-14"><a href="https://www.how-to-build-websites.com/category/studioweb">Studioweb</a> (53)
+<ul class='children'>
+	<li class="cat-item cat-item-228"><a href="https://www.how-to-build-websites.com/category/studioweb/beginners-css-2015">Beginners CSS 2015</a> (8)
+</li>
+	<li class="cat-item cat-item-227"><a href="https://www.how-to-build-websites.com/category/studioweb/html-2015">Beginners HTML 2015</a> (10)
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-230"><a href="https://www.how-to-build-websites.com/category/teaching-code">Teaching Code</a> (20)
+</li>
+	<li class="cat-item cat-item-15"><a href="https://www.how-to-build-websites.com/category/video-podcast-blog">Video Blog and Podcasts</a> (2)
+</li>
+	<li class="cat-item cat-item-111"><a href="https://www.how-to-build-websites.com/category/web-design-2">Web Design</a> (95)
+<ul class='children'>
+	<li class="cat-item cat-item-117"><a href="https://www.how-to-build-websites.com/category/web-design-2/small-business-web-design">Small Business Web Design</a> (5)
+</li>
+	<li class="cat-item cat-item-112"><a href="https://www.how-to-build-websites.com/category/web-design-2/web-design-basics">Web Design Basics</a> (44)
+</li>
+	<li class="cat-item cat-item-113"><a href="https://www.how-to-build-websites.com/category/web-design-2/web-design-tools">Web Design Tools</a> (2)
+</li>
+	<li class="cat-item cat-item-114"><a href="https://www.how-to-build-websites.com/category/web-design-2/web-design-training">Web Design Training</a> (34)
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-226"><a href="https://www.how-to-build-websites.com/category/web-design-start-here">Web Design Start Here</a> (5)
+</li>
+	<li class="cat-item cat-item-115"><a href="https://www.how-to-build-websites.com/category/webmentor">WebMentor</a> (11)
+</li>
+	<li class="cat-item cat-item-116"><a href="https://www.how-to-build-websites.com/category/wordpress">Wordpress</a> (2)
+</li>
+		</ul>
+			</li><li id="text-8" class="widget widget_text"><h4 class="widgettitle">Video Subscriptions</h4>			<div class="textwidget"><ul>
+<li><a href="https://shop.killervideostore.com/">Easy Web Design Training Videos</a></li>
+<li><a href="https://www.studioweb.com/">StudioWeb - Teach Web Design Easily</a></li>
+		</ul></div>
+		</li><li id="text-9" class="widget widget_text"><h4 class="widgettitle">KillerSites Network</h4>			<div class="textwidget"><ul>
+
+<li><a href="https://www.csstutorial.net/">csstutorial.net</a></li>
+
+<li><a href="https://www.killerphp.com">killerphp.com</a></li>
+
+</ul></div>
+		</li>                                </ul>
+				
+			</aside>
+		
+		</div>
+	</div>
+</section>
+
+
+	<section id="social">
+	    <div class="container">
+	        <div class="row">
+	            <div class="col-xs-8">
+	                <ul class="social">
+	                    <li><a target="_blank" href="http://www.facebook.com/pages/Killersites/247915087277"><img src="https://www.how-to-build-websites.com/wp-content/themes/killersites/images/social-facebook.png" alt="Facebook"></a></li>
+	                    <li><a target="_blank" href="https://twitter.com/killersites"><img src="https://www.how-to-build-websites.com/wp-content/themes/killersites/images/social-twitter.png" alt="Twitter"></a></li>
+	                    <li><a target="_blank" href="https://plus.google.com/u/0/104516324687483231020/posts"><img src="https://www.how-to-build-websites.com/wp-content/themes/killersites/images/social-google.png" alt="Google+"></a></li>
+	                    <li><a target="_blank" href="http://www.youtube.com/user/killerphp"><img src="https://www.how-to-build-websites.com/wp-content/themes/killersites/images/social-youtube.png" alt="YouTube"></a></li>
+	                    <li class="text">Stay connected with KillerSites</li>
+	                </ul>
+	            </div>
+	            <div class="col-xs-4 text-right">
+	                <a href="#top" id="pagetop">Top of Page</a>
+	            </div>
+	        </div>
+	    </div>
+	</section>
+	
+	<footer id="pagefooter">
+	    <div class="container">
+	        <div class="row">
+	            <div class="col-md-4 col-sm-12">
+	                <h4>How to Build Websites Newsletter</h4>
+	                <p>My Web Design newsletter will let you know when any new articles, tutorials 
+                    and videos on web design are released.</p>
+	                
+					<div id="mc_embed_signup" style="position: relative;">
+					<form action="https://how-to-build-websites.us8.list-manage1.com/subscribe/post?u=bbf312731b7cfc4f58a7b3c72&amp;id=ea1ef36ca8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+                        <div class="mc-field-group">
+                            <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Add your email address!">
+                        </div>
+                        <div id="mce-responses" class="clear">
+                            <div class="response" id="mce-error-response" style="display:none"></div>
+                            <div class="response" id="mce-success-response" style="display:none"></div>
+                        </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                        <div style="position: absolute; left: -5000px;"><input type="text" name="b_bbf312731b7cfc4f58a7b3c72_f9f2ce6f08" value=""></div>
+                        <input type="submit" value="Join" name="subscribe" id="mc-embedded-subscribe" class="button">
+                    </form>
+					</div>
+	            </div>
+	            <div class="col-md-3 col-sm-6">
+	            	<h4>Categories</h4>
+	                <ul id="menu-footer-col-1" class="menu"><li id="menu-item-1996" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1996"><a href="https://www.how-to-build-websites.com/category/web-design-2">Web Design</a></li>
+<li id="menu-item-1994" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1994"><a href="https://www.how-to-build-websites.com/category/html">HTML</a></li>
+<li id="menu-item-1995" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1995"><a href="https://www.how-to-build-websites.com/category/css">CSS</a></li>
+<li id="menu-item-1997" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1997"><a href="https://www.how-to-build-websites.com/category/html5-and-css3">HTML5 and CSS3</a></li>
+<li id="menu-item-1998" class="navgap menu-item menu-item-type-custom menu-item-object-custom menu-item-1998"><a target="_blank" rel="noopener noreferrer" href="http://www.killervideostore.com/">Web Design Courses</a></li>
+<li id="menu-item-1999" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1999"><a target="_blank" rel="noopener noreferrer" href="https://shop.killervideostore.com/">Complete Web Design Course</a></li>
+<li id="menu-item-2000" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2000"><a target="_blank" rel="noopener noreferrer" href="http://www.studioweb.com/">Complete Web Design Curriculum</a></li>
+</ul>	            </div>
+	            <div class="col-md-2 col-sm-6">
+	            	<h4>How to Build Websites</h4>
+	                <ul id="menu-footer-col-2" class="menu"><li id="menu-item-20" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20"><a target="_blank" rel="noopener noreferrer" href="https://www.killersites.com/web-hosting/">Hosting Guide</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21"><a target="_blank" rel="noopener noreferrer" href="https://www.killersites.com/community/">Get Help in the Forums</a></li>
+<li id="menu-item-22" class="navgap menu-item menu-item-type-custom menu-item-object-custom menu-item-22"><a target="_blank" rel="noopener noreferrer" href="https://www.killersites.com/contact/">Contact &#038; Support</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23"><a target="_blank" rel="noopener noreferrer" href="https://www.killersites.com/about/">About KillerSites</a></li>
+</ul>	            </div>
+	            <div class="col-md-3 col-sm-12">
+	                <div class="phone">1.855.932.8091</div>
+	                <div class="copyright">&copy; 1996 - 2025 Stefan Mischook. All rights reserved.</div>
+										
+					
+	            </div>
+	        </div>
+	    </div>
+	</footer>    
+	
+	
+	<!-- scripts for Social Buttons (ShareThis.com) -->
+	<script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+	<script type="text/javascript">stLight.options({publisher: "c20390ae-dc8d-4461-8248-c96ac3043189"}); </script>
+	
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-32572905-1']);
+	  _gaq.push(['_trackPageview']);
+	
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+	
+
+	<script type='text/javascript' src='https://www.how-to-build-websites.com/wp-content/themes/killersites/js/bootstrap.min.js?ver=20141212'></script>
+<script type='text/javascript' src='https://www.how-to-build-websites.com/wp-content/themes/killersites/js/actions.js?ver=20141212'></script>
+<script type='text/javascript' src='https://www.how-to-build-websites.com/wp-includes/js/wp-embed.min.js?ver=5.4.17'></script>
+	
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/uncle-stef/learn-web-design', text: 'FREE consultation: Learn Web Design', color: '#006bff', textColor: '#ffffff', branding: false }); }</script>
+<!-- Calendly badge widget end -->
+</body>
+</html>
